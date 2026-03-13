@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋 I'm Rupam
 
-<!--
-**rupam-TR/rupam-TR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech student and a beginner programmer. I am passionate about learning new technologies and improving my coding skills. I have basic knowledge of C, Java, HTML, and CSS, and I enjoy learning and building small projects to improve my programming skills.
 
-Here are some ideas to get you started:
+I enjoy building small projects to gain practical experience and continuously improve my programming and development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+
+- C Programming
+- Java (Basic)
+- HTML
+- CSS
+
+🌱 Currently Learning
+
+- Data Structures
+- Web Development
+- Arduino and IoT Projects
+
+📫 Connect with me
+
+- GitHub: https://github.com/rupam-TR/rupam-TR/edit/main/README.md
+- LinkedIn:
