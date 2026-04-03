@@ -10,6 +10,7 @@ I enjoy building small projects to gain practical experience and continuously im
 - Java (Basic)
 - HTML
 - CSS
+- SQL
 
 🌱 Currently Learning
 
