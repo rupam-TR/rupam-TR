@@ -41,15 +41,38 @@ const rupam = {
 
 ---
 
-## 🏆 Achievements 
-| 🚀 Learning & Building Phase | 🎯 Goal |
-|------------------------------|---------|
-| 📌 Consistently improving coding skills | 🎯 Become a Full Stack Developer |
-| 🔬 Working on IoT-based projects | 🌱 Real-world development focus |
-| 🌱 Focused on practical solutions | ✨ Mastery through consistency |
-| 💻 Daily coding practice | 📈 Continuous growth |
+## 🏆 Achievements & Recognition
 
----
+<div align="center">
+
+### 🥇 PATENT HOLDER | Government of India
+
+<table>
+<tr>
+<td width="60%">
+
+### 🔌 IoT-Based Smart Energy Meter System
+
+- 📄 Published in *The Patent Office Journal No. 49/2025*  
+- 📅 Date: 05/12/2025  
+- 💡 Innovation: Personalized Web Dashboard for Energy Management  
+
+⭐ Recognized for contributing to sustainable technology solutions  
+
+🔗 <a href="YOUR-LINK">View Patent</a>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PATENT-PUBLISHED-yellow?style=for-the-badge"/><br><br>
+<img src="https://img.shields.io/badge/IOT-INNOVATOR-blue?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 💼 Tech Stack
 
