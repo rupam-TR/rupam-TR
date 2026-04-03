@@ -21,11 +21,6 @@ I enjoy building small projects to gain practical experience and continuously im
 📫 Connect with me
 
 - GitHub: https://github.com/rupam-TR/rupam-TR/edit/main/README.md
-- LinkedIn: <p align="center">
-  <a href="https://www.linkedin.com/in/rupam-mandal-413a07335/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RupamMandal4227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupammandal422@gmail.com)
