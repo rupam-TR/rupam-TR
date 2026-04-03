@@ -59,7 +59,7 @@ const rupam = {
 
 ⭐ Recognized for contributing to sustainable technology solutions  
 
-🔗 <a href="https://drive.google.com/file/d/abc123/view" target="_blank">🔗 View Patent</a>
+🔗<a href="https://drive.google.com/file/d/12b7soIwx0iuSYvJ8KKGLYKyUl0SqoeXw/view" target="_blank">🔗 View Patent</a>
 
 </td>
 
