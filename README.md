@@ -7,7 +7,7 @@
 ### 💻 Developer in the Making | Turning Ideas into Reality
 
 [![Email](https://img.shields.io/badge/Email-rupammandal422%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupammandal422@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupam-mandal-413a07335/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupam-TR&color=6C63FF&style=for-the-badge)
