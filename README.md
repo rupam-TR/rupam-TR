@@ -6,7 +6,7 @@
 
 ### 💻 Developer in the Making | Turning Ideas into Reality
 
-[![Email](https://img.shields.io/badge/Email-rupammandal422%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupammandal422@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupammandal422@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupam-mandal-413a07335/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RupamMandal4227)
 
